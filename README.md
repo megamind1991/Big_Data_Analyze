@@ -23,6 +23,17 @@ http://lib.csdn.net/base/machinelearning/node
 
 http://lib.csdn.net/base/machinelearning/resource
 
+ai机器学习 
+
+http://lib.csdn.net/base/aimachinelearning
+
+http://lib.csdn.net/base/aimachinelearning/structure
+
+http://lib.csdn.net/base/aimachinelearning/node
+
+http://lib.csdn.net/base/aimachinelearning/resource
+
+
 
 深度学习
 

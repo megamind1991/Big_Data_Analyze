@@ -68,3 +68,7 @@ https://st.h5.xiaoe-tech.com/st/8pExAAVzN
 https://h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJyZXNvdXJjZV90eXBlIjozLCJyZXNvdXJjZV9pZCI6InZfNWE1MzQ4YzNhMzZhNl9wVkdESjRYTCIsInByb2R1Y3RfaWQiOiJwXzVhNGM0NTI2OTAxYjFfbHNTOUhrbUYiLCJhcHBfaWQiOiJhcHBncDZFRFYxdzY5MzYifQ
 
 三、AI / 复杂系统  /  数据挖掘  /  深度学习资料：在网盘中
+
+
+AI时代应该如何入门
+https://edu.csdn.net/course/play/5918

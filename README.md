@@ -71,4 +71,9 @@ https://h5.xiaoeknow.com/content_page/eyJ0eXBlIjoyLCJyZXNvdXJjZV90eXBlIjozLCJyZX
 
 
 AI时代应该如何入门
+
 https://edu.csdn.net/course/play/5918
+
+梯度下降算法与MATLAB 在stars中相关项目
+
+http://blog.csdn.net/ningyaliuhebei/article/details/45971227

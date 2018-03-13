@@ -77,3 +77,7 @@ https://edu.csdn.net/course/play/5918
 梯度下降算法与MATLAB 在stars中相关项目
 
 http://blog.csdn.net/ningyaliuhebei/article/details/45971227
+
+算法笔记
+
+http://blog.csdn.net/llwszjj/article/category/2188667

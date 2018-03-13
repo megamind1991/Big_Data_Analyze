@@ -85,3 +85,7 @@ http://blog.csdn.net/llwszjj/article/category/2188667
 各类算的matlab的实现
 
 http://blog.csdn.net/bazinga521
+
+算法前言
+
+http://blog.csdn.net/walilk/article/details/50978864

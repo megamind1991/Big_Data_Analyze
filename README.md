@@ -89,3 +89,7 @@ http://blog.csdn.net/bazinga521
 算法前言
 
 http://blog.csdn.net/walilk/article/details/50978864
+
+
+分布式ERP
+https://www.cnblogs.com/liuche/p/7955462.html

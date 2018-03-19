@@ -92,4 +92,9 @@ http://blog.csdn.net/walilk/article/details/50978864
 
 
 分布式ERP
+
 https://www.cnblogs.com/liuche/p/7955462.html
+
+大型网站架构演化
+
+https://www.jianshu.com/p/36e7d8265108

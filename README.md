@@ -98,3 +98,7 @@ https://www.cnblogs.com/liuche/p/7955462.html
 大型网站架构演化
 
 https://www.jianshu.com/p/36e7d8265108
+
+开发饰品资源网
+
+https://www.itvideos.info/

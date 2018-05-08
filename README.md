@@ -4,6 +4,10 @@
 人工智能机器学习中文文档 斯坦福课程中文版666
 
 https://zhuanlan.zhihu.com/MachineLearn
+
+apache中文专注AI网站
+
+http://www.apachecn.org/
  
 人工智能
 

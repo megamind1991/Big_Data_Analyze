@@ -1,6 +1,9 @@
 # Big_Data_Analyze
 大数据
 
+人工智能机器学习中文文档 斯坦福课程中文版666
+
+https://zhuanlan.zhihu.com/MachineLearn
  
 人工智能
 
